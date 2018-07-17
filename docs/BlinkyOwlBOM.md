@@ -11,5 +11,5 @@
 | R 10KOhm | | x4, 0805 (R1, R2, R6, R7)|
 | R 470KOhm | | x1, 0805 (R2) |
 
-Please use ![Schematic-Layout](https://github.com/nwmaker/starter-owl/blob/master/docs/schlayout.pdf) for reference.
+Please use [Schematic-Layout](https://github.com/nwmaker/starter-owl/blob/master/docs/schlayout.pdf) for reference.
 
